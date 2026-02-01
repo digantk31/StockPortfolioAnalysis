@@ -1,0 +1,8 @@
+# Stock Portfolio Analysis Dependencies
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+tabulate
